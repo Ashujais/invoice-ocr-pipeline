@@ -333,7 +333,7 @@ Additionally, unclosed database connection sessions during external payment gate
 - **Role Applied For**: Junior Python Developer
 
 ### 2. Location & In-Office Attendance
-- **Current City & Locality**: Delhi NCR
+- **Current City & Locality**: Bangalore
 - **Can you attend our Wazirpur/Shalimar Bagh, Delhi office full-time?**:
   **Yes**. I can commute and attend the Wazirpur/Shalimar Bagh, Delhi office full-time without reservation.
 
